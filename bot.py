@@ -4,8 +4,6 @@ import os
 from dotenv import load_dotenv
 from discord import app_commands
 from discord.ext import commands
-#from config import TOKEN
-#from config import OPEN_AI_KEY
 
 load_dotenv()
 
