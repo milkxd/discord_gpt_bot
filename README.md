@@ -2,9 +2,9 @@
 
 # install python for discord bot
 
-###`sudo apt update && sudo apt upgrade`
-###`sudo apt install python3`
-###`sudo apt install python3-pip`
+`sudo apt update && sudo apt upgrade`
+`sudo apt install python3`
+`sudo apt install python3-pip`
 
 # check python and pip version
 
