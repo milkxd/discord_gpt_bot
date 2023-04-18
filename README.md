@@ -18,11 +18,11 @@
 
 # copy the env.example and change to your own key
 
-`cp env.example .env`
-`nano .env`
+* `cp env.example .env`
+* `nano .env`
 
-`Change <YOUR_BOT_TOKEN> to your bot token`
-`Change <YOUR-OPEN-AI-API-KEY> to your openai api key`
+* Change <YOUR_BOT_TOKEN> to your bot token
+* Change <YOUR-OPEN-AI-API-KEY> to your openai api key
 
 
 
